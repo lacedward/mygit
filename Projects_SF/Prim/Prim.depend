@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1418892229 source:d:\lacq\projects\prim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
